@@ -1286,10 +1286,10 @@ html,body{
 @showSubTitle: true;
 @showText: true;
 @showButtons: true;
-@uname__12: "file:///Users/ilariafinamore/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2019-03-18_200919/assets/images/formazione%20online-1800x1350.jpg";
+@uname__12: "file:///Volumes/SP%20UFD%20U2/mia%20landing%20page//assets/images/formazione-online-1800x1350.jpg";
 @uname__13: true;
 @uname__14: #073b4c;
-@bg-value: "file:///Users/ilariafinamore/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2019-03-18_200919/assets/images/formazione%20online-1800x1350.jpg";
+@bg-value: "file:///Volumes/SP%20UFD%20U2/mia%20landing%20page//assets/images/formazione-online-1800x1350.jpg";
 @bg-type: "image";
 @bg-color-value: #073b4c;
 @bg-parallax: true;
@@ -1703,7 +1703,13 @@ H1 {
 }
 }
 
-#custom-html-k {
+#custom-html-l {
+
+
+<!-- CODICE COUNTDOWN-->
+
+
+
 
 
 <style>body{ 
@@ -1942,33 +1948,5 @@ H2 {
 }
 .mbr-section-subtitle B {
   color: #149dcc;
-}
-}
-
-#custom-html-l {
-}
-
-.cid-rlaniMCCsI {
-@paddingTop: 2;
-@paddingBottom: 2;
-@reveal: false;
-@uname__7: "../../app/themes/mobirise4/components/footer6/../_images/background5.jpg";
-@uname__8: false;
-@uname__9: #55b4d4;
-@bg-value: #55b4d4;
-@bg-type: "color";
-@bg-color-value: #55b4d4;
-@bg-parallax: false;
-@overlay: true;
-@overlayColor: #232323;
-@overlayOpacity: 0.8;
-
-padding-top: (@paddingTop * 15px);
-padding-bottom: (@paddingBottom * 15px);
-& when (@bg-type = 'image') {
-  background-image: url(../../../@bg-value);
-}
-& when (@bg-type = 'color') {
-  background-color: @bg-value;
 }
 }
