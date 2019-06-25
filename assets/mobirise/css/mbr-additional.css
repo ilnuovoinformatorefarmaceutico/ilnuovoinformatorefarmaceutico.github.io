@@ -1985,7 +1985,7 @@ body {
 .cid-ruoqKn0kV2 {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #efefef;
+  background-image: url("../../../assets/images/formazione-online-1800x1350.jpg");
 }
 .cid-ruoqKn0kV2 .card-box {
   padding: 0 2rem;
@@ -2025,8 +2025,13 @@ body {
 .cid-ruoqKn0kV2 .card-title {
   text-align: center;
 }
+.cid-ruotyVdqxS {
+  padding-top: 0px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
 .cid-ruoADC6evB {
-  padding-top: 15px;
+  padding-top: 0px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
@@ -2035,11 +2040,6 @@ body {
 }
 .cid-ruoADC6evB H2 {
   color: #ff3366;
-}
-.cid-ruotyVdqxS {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #d5f3d5;
 }
 .cid-rladQuCHmU {
   padding-top: 120px;
